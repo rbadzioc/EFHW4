@@ -1,8 +1,8 @@
-'''
-Author: Cazimir Kowalski
-Date: 09/15/2022
-Part of EFHW4
-'''
+
+#Author: Cazimir Kowalski
+#Date: 09/15/2022
+#Part of EFHW4
+
 
 ##' Download Targets
 ##' @return data.frame in long format with days as rows, and time, site_id, variable, and observed as columns
